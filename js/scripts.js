@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function(){
     })
 })
 
-        document.addEventListener('DOMContentLoaded', function(){
+document.addEventListener('DOMContentLoaded', function(){
     $('#loginButton').click(function() {
         $('#loginModal').modal('show');
     })
